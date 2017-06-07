@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html> 
+<head> 
+<title> 
+Mitologia Nordica
+</title> 
+</head> 
+<body bgcolor=“black” text=“white”>
+<h1> Mitologia Nordica </h1>
+
+El amplio panteón de los dioses nórdicos era para esas culturas la encarnación de las fuerzas de la naturaleza y la revelación de los misterios de la existencia. Inclusive, hay cierto sincretismo con otras creencias. 
+
+<h1> Odin </h1>
+Odin era el Dios de todos los dioses y reinaba desde Valhalla, el majestuoso salón de las deidades.
+Como muchos otros dioses, Odin estaba dotado de varios poderes. Era el Dios de la guerra, de la poesía, la sabiduría y la muerte.
+<img src="odin_mythology_ravens_gods_paganism.jpg" alt="Odin,el padre de todos">
+
+<h1> Freya </h1>
+
+En las Eddas,Freyja es descrita como la diosa del amor, la belleza y la fertilidad. La gente la invocaba para obtener felicidad en el amor,asistir en los partos y para tener buenas estaciones.
+
+Freyja también era asociada con la guerra, la muerte, la magia, la profecía y la riqueza. Las Eddas mencionan que recibía a la mitad de los muertos en combate en su palacio llamado Fólkvangr, mientras que Odín recibía la otra mitad en el Valhalla.
+
+<img src="Freya.jpg" alt="Freya">
+
+<h1> Thor </h1>
+es el dios del trueno en la mitología nórdica y germánica. Su papel es complejo ya que tenía influencia en áreas muy diferentes, tales como el clima, las cosechas, la protección, la consagración, la justicia, las lidias, los viajes y las batallas.
+<img src="thor-05-27-10.jpg" alt="Thor">
+
+<h1> Video </h1>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/5mVYnfJS73U" frameborder="0" allowfullscreen></iframe>
+
+</body> 
+<html> 
